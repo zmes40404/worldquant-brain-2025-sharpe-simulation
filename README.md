@@ -91,6 +91,7 @@ S_{annual} = S_{daily} \times \sqrt{252}
 ```bash
 python montecarlo_sharpe_simulation.py
 ```
+#### or you can run the code on Google Colab for skipping install the specific libraries.
 
 
 ## 📈 File Structure
